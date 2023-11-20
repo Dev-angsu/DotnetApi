@@ -1,0 +1,6 @@
+C:\Users\Debuw\source\repos\sqlconnection\sqlconnection\obj\Debug\net6.0\sqlconnection.csproj.AssemblyReference.cache
+C:\Users\Debuw\source\repos\sqlconnection\sqlconnection\obj\Debug\net6.0\sqlconnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debuw\source\repos\sqlconnection\sqlconnection\obj\Debug\net6.0\sqlconnection.AssemblyInfoInputs.cache
+C:\Users\Debuw\source\repos\sqlconnection\sqlconnection\obj\Debug\net6.0\sqlconnection.AssemblyInfo.cs
+C:\Users\Debuw\source\repos\sqlconnection\sqlconnection\obj\Debug\net6.0\sqlconnection.csproj.CoreCompileInputs.cache
+C:\Users\Debuw\source\repos\sqlconnection\sqlconnection\obj\Debug\net6.0\sqlconnection.MvcApplicationPartsAssemblyInfo.cache
