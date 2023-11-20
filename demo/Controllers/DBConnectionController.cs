@@ -15,10 +15,19 @@ namespace demo.Controllers
         {
             _db = db;   
         }
+        [Route("/api/[controller]/GetAllRooms")]
         [HttpGet]
         public async Task<List<room>> GetAllRooms()
         {
             return await _db.room.ToListAsync();
+        }
+        [Route("/api/[controller]/CreateRoom")]
+        [HttpPost]
+        public async Task<bool> CreateRoom()
+        {
+                var result = _db.Entry("insert into room values(2, 'Burrow', 'burrow@icicilombard.meetingroom.com', 3, 'conference room', ARRAY['',''],'1');");
+                return true;
+            
         }
     }
 }

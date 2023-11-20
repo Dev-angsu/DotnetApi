@@ -10,3 +10,4 @@ C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\OzoneAp
 C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\refint\OzoneApp.Data.dll
 C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.pdb
 C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\ref\OzoneApp.Data.dll
+C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.sourcelink.json
