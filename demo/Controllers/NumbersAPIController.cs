@@ -3,13 +3,13 @@
 namespace demo.Controllers
 {
     [ApiController]
-    [Route("/api/[controller]")]
+    [Route("api/[controller]")]
     public class getAllRooms : Controller
     {
         static readonly HttpClient client = new HttpClient();
 
         [HttpGet]
-        [Route("/api/[controller]/getNumbersAPI")]
+        [Route("getNumbersAPI")]
         public Task<string> GetNumbersAPI()
         {
             return GetFactAsync();
