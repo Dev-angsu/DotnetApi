@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\demo\\demo.csproj": {}
+    "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\demo\\demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\demo\\demo.csproj": {
+    "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\demo\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\demo\\demo.csproj",
+        "projectUniqueName": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\demo\\demo.csproj",
         "projectName": "demo",
-        "projectPath": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\demo\\demo.csproj",
+        "projectPath": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\demo\\demo.csproj",
         "packagesPath": "C:\\Users\\Debuw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\demo\\obj\\",
+        "outputPath": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Debuw\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\OzoneApp.Data\\OzoneApp.Data.csproj": {
-                "projectPath": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\OzoneApp.Data\\OzoneApp.Data.csproj"
+              "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\OzoneApp.Data\\OzoneApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\OzoneApp.Data\\OzoneApp.Data.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\OzoneApp.Data\\OzoneApp.Data.csproj": {
+    "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\OzoneApp.Data\\OzoneApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\OzoneApp.Data\\OzoneApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\OzoneApp.Data\\OzoneApp.Data.csproj",
         "projectName": "OzoneApp.Data",
-        "projectPath": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\OzoneApp.Data\\OzoneApp.Data.csproj",
+        "projectPath": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\OzoneApp.Data\\OzoneApp.Data.csproj",
         "packagesPath": "C:\\Users\\Debuw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\OzoneApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\Debuw\\Source\\Repos\\DotnetApi\\OzoneApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Debuw\\AppData\\Roaming\\NuGet\\NuGet.Config",

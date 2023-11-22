@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 using OzoneApp.Data;
 using System.Collections.Specialized;
 using System.ComponentModel;
@@ -12,10 +13,12 @@ namespace demo.Controllers
     [Route("api/[controller]")]
     public class DBConnectionController : Controller
     {
+        private readonly ILogger<DBConnectionController> _logger;
         private readonly OzoneDataContext _db;
-        public DBConnectionController(OzoneDataContext db)
+        public DBConnectionController(OzoneDataContext db, ILogger<DBConnectionController> logger)
         {
             _db = db;
+            _logger = logger;
         }
         [Route("GetAllRooms")]
         [HttpGet]
@@ -43,19 +46,20 @@ namespace demo.Controllers
         }
         [Route("ModifyRoom")]
         [HttpPatch]
-        public async Task<bool> ModifyRoom()
+        public async Task<bool> ModifyRoom(int roomid, int newval)
         {
-            int roomid = 3;
-            int newval = 6;
             try {
                 var result = _db.room.SingleOrDefault(b => b.id == roomid);
+                _logger.LogInformation("Found Room corresponding to RoomID given");
                 if (result != null)
                 {
                     result.roomcapacity = newval;
                     _db.SaveChanges();
+                    _logger.LogInformation("Updating Row with new RoomCapacity");
                 }
                 else
                 {
+                    _logger.LogInformation("No such Row found");
                     throw new Exception();
                 }
                 return true;

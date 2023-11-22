@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e6YFM6I9nON2nPcd3Vg3YaH+OzcZomqJkmbAfOMck+AX9tc+vlBAVgmXach5BoBMdLkl5XrWQZo/xBU/Yhb6QA==",
+  "dgSpecHash": "Q5L81DOqyhwipCTMinvrgvHBbLWOg9esOzxtynbC+3MQcZ/vRxQRavpC1+3vXLbTh5+Jrg6zWTKT8JvGUp/rgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\demo\\demo.csproj",
+  "projectFilePath": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\demo\\demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Debuw\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\Debuw\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",

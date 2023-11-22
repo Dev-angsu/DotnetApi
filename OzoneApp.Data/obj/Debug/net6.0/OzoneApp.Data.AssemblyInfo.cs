@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OzoneApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4381b7e95ec989bd2c3ef90c19b15240d2fb3e98")]
 [assembly: System.Reflection.AssemblyProductAttribute("OzoneApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OzoneApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,3 +11,16 @@ C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\refint\
 C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.pdb
 C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\ref\OzoneApp.Data.dll
 C:\Users\Debuw\source\repos\sqlconnection\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.sourcelink.json
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\bin\Debug\net6.0\OzoneApp.Data.deps.json
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\bin\Debug\net6.0\OzoneApp.Data.dll
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\bin\Debug\net6.0\OzoneApp.Data.pdb
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.csproj.AssemblyReference.cache
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.AssemblyInfoInputs.cache
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.AssemblyInfo.cs
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.sourcelink.json
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.dll
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\refint\OzoneApp.Data.dll
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\OzoneApp.Data.pdb
+C:\Users\Debuw\Source\Repos\DotnetApi\OzoneApp.Data\obj\Debug\net6.0\ref\OzoneApp.Data.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9MeiZ4opWdpHJeOourqIL9MSOAwDfMnhpRyRth/nAolRudAo+Km8vQCNMCez1zpSXPfCLp6owFYRr7RcaMvOPA==",
+  "dgSpecHash": "FaY2wraQReswik3jXI3SkTYJVNuGc2HwDYAVjtHojQnREqwdpxXcdr8x+OoYgL/EWwuP0/Kzsjv6uhaeMAtIJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Debuw\\source\\repos\\sqlconnection\\OzoneApp.Data\\OzoneApp.Data.csproj",
+  "projectFilePath": "C:\\Users\\Debuw\\source\\repos\\DotnetApi\\OzoneApp.Data\\OzoneApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Debuw\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",
     "C:\\Users\\Debuw\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.11\\microsoft.entityframeworkcore.abstractions.7.0.11.nupkg.sha512",
